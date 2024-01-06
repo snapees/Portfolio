@@ -38,7 +38,7 @@ const Feedbacks = () => {
           <p className={styles.sectionSubText}>
             THE VALUES THAT I CAN ADD TO YOUR PROJECT
           </p>
-          <h2 className={styles.sectionHeadText}>Testimonials.</h2>
+          <h2 className={styles.sectionHeadText}>Expertise.</h2>
         </motion.div>
       </div>
       <div className={`-mt-20 pb-14 ${styles.paddingX} flex flex-wrap gap-7`}>
