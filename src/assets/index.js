@@ -36,6 +36,8 @@ import linkedin from "./linkedin.png";
 import gmail from "./gmail.png";
 import gith from "./git.png";
 
+import reactNative from "./react-native.png";
+
 export {
   logo,
   backend,
@@ -70,4 +72,5 @@ export {
   linkedin,
   gmail,
   gith,
+  reactNative,
 };

@@ -20,6 +20,7 @@ import {
   responsive,
   dynamic,
   intutive,
+  reactNative,
 } from "../assets";
 
 export const navLinks = [
@@ -53,6 +54,10 @@ const services = [
   {
     title: "Backend Developer",
     icon: backend,
+  },
+  {
+    title: "React Native Developer",
+    icon: reactNative,
   },
 ];
 
@@ -96,6 +101,10 @@ const technologies = [
   {
     name: "git",
     icon: git,
+  },
+  {
+    name: "React Native",
+    icon: reactNative,
   },
 ];
 
@@ -165,6 +174,17 @@ const experiences = [
     points: [
       "Started learning ReactJs which is a frontend library based on Javascript for building responsive websites.",
       "Later started learning framer-moiton and threejs for using 3D object in websites and providing motion to different components and using the same built this portfolio website.",
+    ],
+  },
+  {
+    title: "React Native",
+    company_name: "From Youtube",
+    icon: reactNative,
+    iconBg: "#383E56",
+    date: "May 2023 - July 2023",
+    points: [
+      "Started learning React Native, a framework based on JavaScript for building cross-platform mobile applications.",
+      "Created a few projects using React Native such as a weather app and a todo app.",
     ],
   },
 ];

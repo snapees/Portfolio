@@ -24,7 +24,7 @@ const Footer = () => {
           <img src={linkedin} alt="linkedin" />
         </Link>
         <Link
-          to="https://mail.google.com/mail/u/0/#inbox?compose=new"
+          to="mailto:iamamitthakur2602@gmail.com"
           className="flex justify-center px-5"
           target="_blank"
         >
